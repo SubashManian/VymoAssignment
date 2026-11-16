@@ -29,6 +29,11 @@ bundle install
 bundle exec pod install
 ```
 
+## Demo Video
+
+- `demo/iPhoneSE.mov` iPhoneSE demo video
+- `demo/iPad.mov` iPad demo video
+
 ## Folder layout
 
 - `src/design/` contains tokens and atoms used across the app.
