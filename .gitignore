@@ -1,0 +1,34 @@
+# Dependencies and lockfiles
+node_modules/
+vendor/bundle/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lock
+bun.lockb
+*.lock
+
+# React Native / JavaScript tooling
+coverage/
+.expo/
+.metro-health-check*
+*.tsbuildinfo
+
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/**/xcuserdata/
+ios/**/*.xcuserstate
+ios/Podfile.lock
+
+# Android
+android/.gradle/
+android/local.properties
+android/**/build/
+android/**/captures/
+android/.externalNativeBuild/
+android/.cxx/
+
+# macOS
+.DS_Store
